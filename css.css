@@ -1,3 +1,7 @@
+body {
+    size: 1.5rem;
+}
+
 h1, h2 {
     text-align: center;
 }
@@ -30,18 +34,19 @@ li {
 }
 
 @media only screen and (max-width: 1034px) {
+
     .volcano {
-        margin-left: 0rem;
+        margin-left: 0;
     }
 
     iframe {
         text-align: left;
-        padding-left: 0rem;
+        padding-left: 0;
     }
 
     h3 {
         text-align: left;
-        padding-left: 0rem;
+        padding-left: 0;
     }
 
     .list {
