@@ -1,0 +1,51 @@
+h1, h2 {
+    text-align: center;
+}
+
+.list {
+    text-align: left;
+    padding-left: 14rem;
+}
+
+h3 {
+    text-align: left;
+    padding-left: 12rem;
+}
+
+iframe {
+    text-align: left;
+    padding-left: 12rem;
+}
+
+.volcano {
+    margin-left: -2rem;
+}
+
+.volcano2 {
+    margin-left: 0rem;
+}
+
+li {
+    line-height: 1.5rem;
+}
+
+@media only screen and (max-width: 1189) {
+    .volcano {
+        margin-left: 0rem;
+    }
+
+    iframe {
+        text-align: left;
+        padding-left: 0rem;
+    }
+
+    h3 {
+        text-align: left;
+        padding-left: 0rem;
+    }
+
+    .list {
+        text-align: left;
+        padding-left: 0rem;
+    }
+}
