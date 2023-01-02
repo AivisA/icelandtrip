@@ -29,7 +29,7 @@ li {
     line-height: 1.5rem;
 }
 
-@media only screen and (max-width: 1189) {
+@media only screen and (max-width: 1034px) {
     .volcano {
         margin-left: 0rem;
     }
